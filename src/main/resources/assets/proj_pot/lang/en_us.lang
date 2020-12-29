@@ -1,0 +1,12 @@
+////////////////////////////////////////////////////////////////////////////
+# Blocks
+tile.proj_pot.cooking_pot.name=Cooking Pot
+tile.proj_pot.camp_pot.name=Pot on Campfire
+tile.proj_pot.fire_stove.name=Cooking Stove
+# GUI
+proj_pot.gui.error_heat=NaN Heat Value.
+proj_pot.gui.pot_heat_low=Low, %d%%.
+proj_pot.gui.pot_heat_mlow=Mid Low, %d%%.
+proj_pot.gui.pot_heat_med=Medium, %d%%.
+proj_pot.gui.pot_heat_mhigh=Mid High, %d%%.
+proj_pot.gui.pot_heat_high=High, %d%%.

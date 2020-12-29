@@ -1,0 +1,12 @@
+////////////////////////////////////////////////////////////////////////////
+# Blocks
+tile.proj_pot.cooking_pot.name=烹饪锅
+tile.proj_pot.camp_pot.name=野炊锅
+tile.proj_pot.fire_stove.name=烹饪灶
+# GUI
+proj_pot.gui.error_heat=错误的火力值
+proj_pot.gui.pot_heat_low=低火力, %d%%.
+proj_pot.gui.pot_heat_mlow=中低火, %d%%.
+proj_pot.gui.pot_heat_med=中火力, %d%%.
+proj_pot.gui.pot_heat_mhigh=中高火, %d%%.
+proj_pot.gui.pot_heat_high=高火力, %d%%.
